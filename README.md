@@ -1,5 +1,8 @@
 
 ## readme.md
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bodobraegger&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true)
+
 <!--
 ### 🐉 🐈‍⬛ 🦎 🐆
 **bodobraegger/bodobraegger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
